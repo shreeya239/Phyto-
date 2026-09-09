@@ -1,4 +1,4 @@
-
+.ok.
 # 🌱 Phyto — Botanical E-Commerce Platform
 
 Phyto connects local nurseries and verified growers directly to urban and semi-urban homes through a regional e-commerce platform with a grounded AI plant recommender, zoned logistics, and multi-channel client applications.
